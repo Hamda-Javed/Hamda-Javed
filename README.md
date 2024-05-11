@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hamda-Javed
 - 👀 I’m interested and Passionate about Technology and Health | Enabling Positive Impact in Healthcare.
-- 🌱 I’m currently learning developing Electronic health management softwares using Machine Learning Algorithms.
+- 🌱 I’m currently learning Mern stack development.
 - 💞️ I’m looking to collaborate on projects that lie at the intersection of technology and healthcare.
 - 📫 How to reach me ... khamda956@gmail.com
 - ✨Skills i aquired ... 
