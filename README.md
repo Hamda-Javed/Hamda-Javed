@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @Hamda-Javed
-- 👀 I’m interested and Passionate about Technology and Health | Enabling Positive Impact in Healthcare.
-- 🌱 I’m currently learning Mern stack development.
-- 💞️ I’m looking to collaborate on projects that lie at the intersection of technology and healthcare.
-- 📫 How to reach me ... khamda956@gmail.com
-- ✨fun fact ... I like to ride heavy bikes xD
-
-Proficient in programming languages such as [Python,Javascript,NodeJs,React,HTML,CSS , MongoDb], allowing me to develop tailored applications.
-
-Familiarity with health informatics standards and regulations, ensuring the ethical and secure handling of sensitive patient information.
-
-Effective communication and collaboration skills, enabling me to work seamlessly with healthcare professionals to understand their needs and develop user-centric solutions.
-
+🎓 I'm Biomedical Senior at <a href="https://www.lumhs.edu.pk/home/">Liaqat University of Medical and Health Sciences </a> .
+👯 I'm Social Media Manager at Microsoft Learn Student Ambassadar Club Hyderabad.
+👯 I'm Campus Management officer at Google Developers Student Club at <a href="https://www.muet.edu.pk/">MUET Jamshoro </a>
+🌱 I'm currently learning Firebase ,Full Stack, Next.js , Google cloud ...
+🗣️ I’m looking to collaborate with Open-Source Projects and hackathons for Software Development.
+📫 Reach out to me @khamda956@gmail.com.
+⚡ Goal for 2024 ->> to become a skilled and confident programmer, excelling as a Fullstack Software Development Engineer.
+😎 Fun fact: I love to ride heavy bikes and like to play Football.
