@@ -3,11 +3,9 @@
 - 🌱 I’m currently learning Mern stack development.
 - 💞️ I’m looking to collaborate on projects that lie at the intersection of technology and healthcare.
 - 📫 How to reach me ... khamda956@gmail.com
-- ✨Skills i aquired ... 
+- ✨fun fact ... I like to ride heavy bikes xD
 
-Proficient in programming languages such as [Python,Javascript,Django,NodeJs,C++,SQL,React,HTML,CSS , MongoDb], allowing me to develop tailored applications for healthcare systems.
-
-Strong background in data analysis and machine learning, enabling me to derive valuable insights from medical data and support evidence-based decision-making.
+Proficient in programming languages such as [Python,Javascript,NodeJs,React,HTML,CSS , MongoDb], allowing me to develop tailored applications.
 
 Familiarity with health informatics standards and regulations, ensuring the ethical and secure handling of sensitive patient information.
 
