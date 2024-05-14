@@ -1,4 +1,4 @@
-🎓 I'm Biomedical Senior at <a href="https://www.lumhs.edu.pk/home/">Liaqat University of Medical and Health Sciences </a> . <br>
+🎓 I'm Biomedical Engineer Student at <a href="https://www.lumhs.edu.pk/home/">Liaqat University of Medical and Health Sciences </a> . <br>
 👯 I'm Social Media Manager at Microsoft Learn Student Ambassadar Club Hyderabad.<br>
 👯 I'm Campus Management officer at Google Developers Student Club at <a href="https://www.muet.edu.pk/">MUET Jamshoro </a> <br>
 🌱 I'm currently learning Firebase ,Full Stack, Next.js , Google cloud ... <br>
